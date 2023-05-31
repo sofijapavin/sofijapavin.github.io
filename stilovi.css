@@ -1,0 +1,63 @@
+body{
+    background-image: url(60360-wp-upload_uploads.jpeg);
+    margin-left: auto;
+    margin-left: auto;
+    text-align: justify;
+}
+h1{
+    color: rgb(238, 189, 125);
+    text-shadow: 3px 2px 5px black;
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    color: rgb(238, 189, 125);
+    text-shadow: 3px 2px 5px black;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    text-indent: 30px;
+    background-color: rgb(238, 189, 125);
+    font-size: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: 2px solid rgb(67, 0, 0);
+    padding: 10px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    float: inline-end;
+}
+tr,td{
+    padding: 10px;
+    border: 2px solid rgb(67, 0, 0);
+    background-color: beige;
+}
+a{
+    color: rgb(67, 0, 0);
+}
+ul{
+    list-style-type: square;
+    background-color: rgb(238, 189, 125);
+    color: rgb(67, 0, 0);
+    font-size: 20px;
+    border-top: 2px solid rgb(67, 0, 0);
+    border-bottom: 2px solid rgb(67, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.napomena{
+    font-size: 20px;
+    color: rgb(67, 0, 0);
+    text-decoration: underline;
+    border: none;
+    text-align: center;
+}
+.kraj{
+    text-align: center;
+    margin-left: 550px;
+    background-color: rgb(67, 0, 0);
+    color: rgb(238, 189, 125);
+}
